@@ -1,12 +1,12 @@
-###Installation:
+### Installation:
 
 `node i`
 
-###Use:
+### Use:
 
 `node app.js --city=CITY_NAME`
 
-###Example
+### Example
 
 `node app.js --city=london`
  
