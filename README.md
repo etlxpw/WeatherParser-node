@@ -1,14 +1,16 @@
-Installation:
+###Installation:
 
-node i
+`node i`
 
-Use:
+###Use:
 
-node app.js --city=CITY_NAME
+`node app.js --city=CITY_NAME`
 
-*Example*
+###Example
 
-node app.js --city=london
+`node app.js --city=london`
+ 
+___ 
 
 Note:
-Please get your own API key from https://openweathermap.org/api
+*Please get your own API key from [here](https://openweathermap.org/api)*
